@@ -1,0 +1,17 @@
+﻿<Window x:Class="NNTPProject.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NNTPProject"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" >
+            <Button Height="30" Width="100" Content="File" Margin="5" />
+            <Button Height="30" Width="100" Content="Connect" Margin="5" />
+            <Button Height="30" Width="100" Content="Setup" Margin="5" Click="SetupButton_Click"/>
+            <Button Height="30" Width="100" Content="Quit" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>
