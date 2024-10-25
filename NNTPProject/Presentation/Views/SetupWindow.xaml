@@ -33,7 +33,7 @@
         
         <StackPanel Orientation="Horizontal" Grid.Row="4" Grid.ColumnSpan="2" HorizontalAlignment="Center" Margin="10">
             <Button Content="OK" Click="OkButton_OnClick" Width="75" Height="40" Margin="5"></Button>
-            <Button Content="Cancel" Command="{Binding CancelCommand}" Width="75" Height="40" Margin="5"></Button>
+            <Button Content="Cancel" Click="CancelButton_OnClick" Width="75" Height="40" Margin="5"></Button>
         </StackPanel>
         
     </Grid>

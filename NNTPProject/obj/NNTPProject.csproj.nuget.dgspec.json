@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\NNTPProject\\NNTPProject\\NNTPProject.csproj": {}
+    "C:\\Users\\Noah\\Documents\\GitHub\\NNTPProject\\NNTPProject\\NNTPProject.csproj": {}
   },
   "projects": {
-    "D:\\C#\\NNTPProject\\NNTPProject\\NNTPProject.csproj": {
+    "C:\\Users\\Noah\\Documents\\GitHub\\NNTPProject\\NNTPProject\\NNTPProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\NNTPProject\\NNTPProject\\NNTPProject.csproj",
+        "projectUniqueName": "C:\\Users\\Noah\\Documents\\GitHub\\NNTPProject\\NNTPProject\\NNTPProject.csproj",
         "projectName": "NNTPProject",
-        "projectPath": "D:\\C#\\NNTPProject\\NNTPProject\\NNTPProject.csproj",
+        "projectPath": "C:\\Users\\Noah\\Documents\\GitHub\\NNTPProject\\NNTPProject\\NNTPProject.csproj",
         "packagesPath": "C:\\Users\\Noah\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\NNTPProject\\NNTPProject\\obj\\",
+        "outputPath": "C:\\Users\\Noah\\Documents\\GitHub\\NNTPProject\\NNTPProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

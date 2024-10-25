@@ -9,15 +9,16 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Application\" />
       <Folder Include="Entities\" />
-      <Folder Include="Infrastructure\" />
-      <Folder Include="InterfaceAdapter\" />
-      <Folder Include="Presentation\Views\" />
     </ItemGroup>
 
     <ItemGroup>
-      <Page Update="Presentation\MainWindow.xaml">
+      <Page Update="Presentation\Views\MainWindow.xaml">
+        <Generator>MSBuild:Compile</Generator>
+        <XamlRuntime>Wpf</XamlRuntime>
+        <SubType>Designer</SubType>
+      </Page>
+      <Page Update="Presentation\Views\SetupWindow.xaml">
         <Generator>MSBuild:Compile</Generator>
         <XamlRuntime>Wpf</XamlRuntime>
         <SubType>Designer</SubType>
